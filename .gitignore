@@ -1,0 +1,12 @@
+# Ignore l'environnement virtuel
+MY_Project_env/
+
+# Fichiers temporaires de Python
+__pycache__/
+*.pyc
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Dossiers de configuration d'éditeurs
+.vscode/
